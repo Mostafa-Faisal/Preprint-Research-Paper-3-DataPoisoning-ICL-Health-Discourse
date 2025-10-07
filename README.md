@@ -9,6 +9,16 @@
 
 ---
 
+## Authors & Contact
+
+**Rabeya Amin Jhuma** — University of Information Technology and Sciences (UITS) — r.a.jhuma2019@gmail.com  
+**Mostafa Mohaimen Akand Faisal** — University of Information Technology and Sciences (UITS) — mostafafaisal013@gmail.com
+
+---
+
+
+---
+
 ## Repository Overview
 
 This repository contains all code, scripts, and analysis pipeline for the preprint:
@@ -228,14 +238,6 @@ If you use this work or code, please cite the preprint:
 }
 ```
 
----
-
-## Authors & Contact
-
-**Rabeya Amin Jhuma** — University of Information Technology and Sciences (UITS) — r.a.jhuma2019@gmail.com  
-**Mostafa Mohaimen Akand Faisal** — University of Information Technology and Sciences (UITS) — mostafafaisal013@gmail.com
-
----
 
 ## License
 
